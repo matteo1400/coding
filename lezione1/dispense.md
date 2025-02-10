@@ -1,7 +1,6 @@
 # **Lezione 1: Introduzione al Coding e a Python**
 
 ## **Obiettivi della lezione**
-
 Questa prima lezione ha l’obiettivo di introdurre i concetti fondamentali della programmazione, utilizzando Python come linguaggio di riferimento. Gli argomenti trattati saranno:  
 - Cos’è un **algoritmo** e come può essere utilizzato per risolvere problemi.  
 - Il ruolo dei **linguaggi di programmazione** come strumenti di comunicazione con il computer.  
